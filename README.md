@@ -1,7 +1,11 @@
 # Game Of Life
-This is a Java implementation of the famous Conways "Game of Life".
+This is a Java implementation of the famous game "Conways Game of Life".
 
-#Features
+<p align="center">
+  <img src="game_screenshot.png" width="700">
+</p>
+
+### Features
 - change speed
 - change zoom
 - create new board
